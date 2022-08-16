@@ -37,7 +37,7 @@ Click on "Raw" button on right side of this page to see original markdown then c
 - چرخه حیات یک فرگمنت را توضیح دهید  
 `جواب را اینجا وارد کنید`
 
-- تفاوت استیت های onCreate و onCreateView و onActivityCreated را توضیح دهید 
+- تفاوت متد های onCreate و onCreateView و onActivityCreated را توضیح دهید 
 `جواب را اینجا وارد کنید`
 
 - نحوه تعامل RecyclerView با Adapter را توضیح دهید. 
